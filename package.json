@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "BitCraft_nft": "ts-node BitCraft_nft.ts"
+  },
+  "dependencies": {
+    "@aptos-labs/ts-sdk": "^1.13.0"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "ts-node": "latest",
+    "typescript": "latest"
+  }
+}
