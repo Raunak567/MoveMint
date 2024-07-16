@@ -10,8 +10,8 @@
 1. Fork the repo
 2. Clone it on your machine
    ```bash
-   git clone https://github.com/Raunak567/Move_on_Aptos.git
-   Cd Move_on_Aptos
+   git clone https://github.com/Raunak567/MoveMint.git
+   Cd MoveMint
    ```
 3. Installing the TypeScript SDK
    ```bash
