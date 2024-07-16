@@ -1,7 +1,10 @@
-<h1 align="center">Crafting an NFT <img src="https://cdn3d.iconscout.com/3d/premium/thumb/aptos-8634810-6876124.png?f=webp" alt="NFT" width="30px" height="30px"/></h1>
+<h1 align="center">MoveMint <img src="https://cdn3d.iconscout.com/3d/premium/thumb/aptos-8634810-6876124.png?f=webp" alt="NFT" width="35px" height="35px"/></h1>
 <p align="center"><i>Get started with <a href="https://aptosfoundation.org/">Aptos</a></i></p>
 <br>
-<p align="center">Lets start projecting on how to create and transfer non-fungible tokens (NFTs) on the aptos blockchain.Thanks to the TypeScript SDK, we can now seize the opportunity to write code for creating digital assets, while emphasizing a <b>step-by-step</b> understanding of the process.</p>
+<p align="center">The Aptos blockchain offers a robust platform for creating and managing non-fungible tokens (NFTs).  Leveraging the power of the TypeScript SDK, we can streamline the NFT creation and transfer process, fostering a clear step-by-step understanding.</p>
+
+## How to Use:
+<b>MoveMint app empowers users to manage their blockchain assets efficiently. It simplifies account creation and funding, allowing for seamless minting and transfer of on-chain assets.</b>
 
 ## Local Installation Steps
 1. Fork the repo
