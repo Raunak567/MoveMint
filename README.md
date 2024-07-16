@@ -1,7 +1,7 @@
 <h1 align="center">Crafting an NFT <img src="https://cdn3d.iconscout.com/3d/premium/thumb/aptos-8634810-6876124.png?f=webp" alt="NFT" width="30px" height="30px"/></h1>
 <p align="center"><i>Get started with <a href="https://aptosfoundation.org/">Aptos</a></i></p>
 <br>
-<p align="center">Lets start projecting on how to create and transfer non-fungible tokens (NFTs) on the aptos blockchain.It has been made possible because of TypeScript SDK.Let's grab a chance to write codes for making assets (digital) and along with insisting on understanding the process <br> step by step.</p>
+<p align="center">Lets start projecting on how to create and transfer non-fungible tokens (NFTs) on the aptos blockchain.Thanks to the TypeScript SDK, we can now seize the opportunity to write code for creating digital assets, while emphasizing a <b>step-by-step</b> understanding of the process.</p>
 
 ## Local Installation Steps
 1. Fork the repo
