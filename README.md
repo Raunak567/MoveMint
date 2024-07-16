@@ -2,3 +2,10 @@
 <p align="center"><i>Get started with <a href="https://aptosfoundation.org/">Aptos</a></i></p>
 <br>
 <p align="center">Lets start projecting on how to create and transfer non-fungible tokens (NFTs) on the aptos blockchain.It has been made possible because of TypeScript SDK.Let's grab a chance to write codes for making assets (digital) and along with that insisting on understanding the process <br> step by step.</p>
+## Local Installation Steps
+1. Fork the repo
+2. Clone it on your machine
+   ```bash
+   git clone https://github.com/Raunak567/Move_on_Aptos.git
+
+   ```
